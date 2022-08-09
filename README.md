@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alphonse
+- 👋 Hi, I’m Mohammad
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on develope codes
