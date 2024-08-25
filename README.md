@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm MohammadAli Akbarzadeh! 👋
 
-<!--
-**mohammadaliakbarzadeh/mohammadaliakbarzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Welcome to my GitHub! I’m a developer passionate about writing clean, efficient code and constantly pushing my boundaries. With a strong foundation in Python and C, I love tackling challenges that require deep problem-solving skills. I'm also expanding my front-end capabilities, experimenting with new technologies to create seamless user experiences.
 
-Here are some ideas to get you started:
+This space is where I document my journey, share projects, and collaborate on open-source initiatives. I’m always eager to learn and contribute to the community. If you find something interesting here or want to collaborate, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Programming Languages:** Python, C
+- 
+## Get in Touch
+- [LinkedIn](https://www.linkedin.com/in/mohammadali-akbarzadeh-49176a297/)
+- [Email](mailto:developer.akbarzadeh@gmail.com)
