@@ -7,7 +7,7 @@ This space is where I document my journey, share projects, and collaborate on op
 
 ## Skills
 - **Programming Languages:** Python, C
-- 
+- **Frimworks:** Flask
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohammadali-akbarzadeh-49176a297/)
 - [Email](mailto:developer.akbarzadeh@gmail.com)
